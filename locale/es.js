@@ -23,7 +23,7 @@
         },
         weekdays : 'Domingo_Lunes_Martes_Miércoles_Jueves_Viernes_Sábado'.split('_'),
         weekdaysShort : 'Dom._Lun._Mar._Mié._Jue._Vie._Sáb.'.split('_'),
-        weekdaysMin : 'Do_Lu_Ma_Mi_Ju_Vi_Sá'.split('_'),
+        weekdaysMin : 'Dom_Lun_Mar_Mie_Jue_Vie_Sáb'.split('_'),
         longDateFormat : {
             LT : 'H:mm',
             LTS : 'LT:ss',
